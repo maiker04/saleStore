@@ -23,7 +23,7 @@ class ContenedoresInfo extends Component {
                         </button>
                     </div>
 
-                    <img className='box__1--img' src="https://blogsprinter.es/wp-content/uploads/2018/12/2018-12-04.jpg" />
+                    <img className='box__1--img' src="https://www.ibercib.es/wp-content/uploads/2017/08/shutterstock_575822173reducida.jpg" />
                 </div>
                 <div className='box__2'>
                     <div className='box__2--text'>
