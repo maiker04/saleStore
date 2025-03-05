@@ -13,7 +13,7 @@ class Contactanos extends Component {
                     <textarea type="text" placeholder="descripción" className='input-style-textarea' rows={10} />
                 </div>
                 <div className='col-container-box__5'>
-                    <img src="https://gcgroupcompany.com/wp-content/uploads/2020/06/gcgroup-company-contactanos.png" className='img-box__5' />
+                    <img src="https://image.freepik.com/vector-gratis/contactanos_23-2148171940.jpg" className='img-box__5' />
                 </div>
             </div>
         )

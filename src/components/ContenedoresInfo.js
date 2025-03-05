@@ -35,7 +35,6 @@ class ContenedoresInfo extends Component {
                             <img className="img-logo" src="https://logos-marcas.com/wp-content/uploads/2020/04/Nike-Logo.png" />
                             <img className="img-logo" src="https://1000marcas.net/wp-content/uploads/2019/12/logo-Reebok.png" />
                             <img className="img-logo" src="https://dpjye2wk9gi5z.cloudfront.net/wcsstore/DportenisStorefrontAssetStore/Attachment/logos/under-armour.jpg" />
-                            <img className="img-logo" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Puma_AG.svg/1200px-Puma_AG.svg.png" />
                         </div>
                     </div>
                 </div>
@@ -86,7 +85,7 @@ class ContenedoresInfo extends Component {
                     </div>
                     <div className='col-container-box__5'>
                         <h2 className='text-box__5'>Compra en tienda y pide tu entrega adomicilio completamente ¡gratis!</h2>
-                        <img src="https://gcgroupcompany.com/wp-content/uploads/2020/06/gcgroup-company-contactanos.png" className='img-box__5' />
+                        <img src="https://image.freepik.com/vector-gratis/contactanos_23-2148171940.jpg" className='img-box__5' />
                     </div>
                 </div>
             </div>
